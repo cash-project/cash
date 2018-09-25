@@ -1,0 +1,34 @@
+src/*.exe
+src/cash
+src/cashd
+src/test_cash
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.cash
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+cash-qt
+Cash-Qt.app
+
+# Unit-tests
+Makefile.test
+cash-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
