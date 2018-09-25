@@ -1,5 +1,4 @@
 Cash integration/staging tree
-================================
 
 http://www.cash.org
 
@@ -71,3 +70,6 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./cash-qt_test
 
+# cash
+currency
+d1e2a360c3e03d34d6a2f9a2bcfa223a7c37aa1b
