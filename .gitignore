@@ -1,3 +1,6 @@
+src/*.exe
+src/cash
+src/cashd
 src/test_cash
 .*.swp
 *.*~*
@@ -11,6 +14,7 @@ src/test_cash
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
+cash-qt
 Cash-Qt.app
 
 # Unit-tests
