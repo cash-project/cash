@@ -1095,7 +1095,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 14 * 24 * 60 * 60; // Cash: 14 days
+static const int64 nTargetTimespan = 7 * 24 * 60 * 60; // Cash: 7 days
 static const int64 nTargetSpacing = 5 * 60; // Cash: 5 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
