@@ -3,7 +3,8 @@ HEAD
 Cash integration/staging tree
 ce04e053426cfb875a78c3e3047ec194ca7e3d63
 
-http://www.cash.org
+
+http://cash-project.eu5.org (coming soon...)
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Cash Developers
