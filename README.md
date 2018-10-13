@@ -22,7 +22,7 @@ The rest is the same as Bitcoin.
  - 4032 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Cash client sofware, see http://www.cash.org.
+the Cash client sofware, see http://cash-project.eu5.org.
 
 License
 -------
